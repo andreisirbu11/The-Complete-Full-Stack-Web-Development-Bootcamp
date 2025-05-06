@@ -1,0 +1,46 @@
+body {
+    background: #00243d;
+    background: linear-gradient(180deg, rgba(0, 36, 61, 1) 35%, rgba(0, 99, 102, 1) 80%, rgba(0, 156, 91, 1) 100%);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+h1 {
+    font-weight: lighter;
+}
+
+span {
+    font-weight: bold;
+}
+
+img {
+    filter: invert(100%) sepia(0%) saturate(7430%) hue-rotate(24deg) brightness(100%) contrast(94%);
+}
+
+#weather {
+    font-size: 24px;
+    font-weight: lighter;
+}
+
+#celcius {
+    font-size: 80px;
+    font-weight: lighter;
+}
+
+#warning-location {
+    font-size: 48px;
+    font-weight: bold;
+    color: lightslategray;
+}
+
+#warning-weather {
+    font-size: 100px;
+    font-weight: lighter;
+    color: lightslategray;
+}
+
+#lowest-temp {
+    color: darkslategray;
+}
