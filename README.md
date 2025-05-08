@@ -22,7 +22,6 @@ Completed a full-stack web development bootcamp covering HTML, CSS, JavaScript, 
 - Section 25: EJS
 - Section 27: Git, Github and Version Control
 - Section 28: Application Programming Interfaces (APIs)
-- Section 29: Capstone Project - Use a Public API
 - Section 30: Build Your Own API
 - Section 33: PostgreSQL
 - Section 35: Authentication and Security - Handling Credentials & Designing a Secure Login
